@@ -1,3 +1,4 @@
-# Akdeniz_University_Computer_Programming_Assignments
-Computer Programming Assignments
+# Akdeniz University Computer Programming Assignments
+
+
 The details of the assignment are given in the pdf.
